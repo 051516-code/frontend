@@ -1,0 +1,46 @@
+{
+  "folders": [
+	{
+		"name": "practica Grid",
+		"path": "..\\..\\..\\Desktop\\vainilla\\alexcg\\practica Grid"
+	},
+	{
+		"name": "Animations",
+		"path": ".."
+	},
+	{
+		"name": "menu hamburguesa",
+		"path": "..\\..\\menu hamburguesa"
+	},
+	{
+		"name": "modal",
+		"path": "..\\..\\modal"
+	},
+	{
+		"name": "practica card",
+		"path": "..\\..\\practica card"
+	},
+	{
+		"name": "animaciones svg",
+		"path": "..\\..\\animaciones svg"
+	},
+	{
+		"name": "galeria",
+		"path": "..\\..\\galeria"
+	},
+	{
+		"name": "lading page animada",
+		"path": "..\\..\\lading page animada"
+	},
+	{
+		"name": "lightbox",
+		"path": "..\\..\\lightbox"
+	},
+	{
+		"path": "..\\..\\formulario animado"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Animations"
+  }
+}
